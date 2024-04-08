@@ -1,0 +1,10 @@
+Stratego, brætspil, 2, 2, middel, 99, nej
+Risk, brætspil, 2, 6, dårlig, 39, ja
+Skak, brætspil, 2, 2, god, 29, nej
+Stratego, brætspil, 2, 2, middel, 119, nej
+Settlers of Catan, brætspil, 2, 4, god, 89, nej
+Bezzerwizzer, brætspil, 2, 4, middel, 129, ja
+Trivial Pursuit, brætspil, 2, 4, god, 69, nej
+Ludo, brætspil, 2, 4, dårlig, 59, ja
+Bezzerwizzer, brætspil, 2, 4, god, 1295, ja
+Backgammon, brætspil, 2, 2, middel, 129, nej

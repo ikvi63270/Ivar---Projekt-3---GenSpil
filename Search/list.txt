@@ -1,0 +1,9 @@
+Stratego, brætspil, 2, middel, 89.95, nej
+Risk, brætspil, 2, dårlig, 39.95, ja
+Skak, brætspil, 2, god, 69.95, nej
+Stratego, brætspil, 2, middel, 119.95, nej
+Catan, brætspil, 2-4, god, 89.95, nej
+Bezzerwizzer, brætspil, 2-4, middel, 129.95, ja
+Trivial Pursuit, brætspil, 2-4, god, 12.50, nej
+Ludo, brætspil, 2-4, dårlig, 17.95, ja
+Bezzerwizzer, brætspil, 2-4, god, 1295.95, ja
